@@ -11,5 +11,5 @@ The page should have a Scaffold as the root widget.
 8. Github repo link
 
 # The .readme file in github must contain screenshots of the whole app
-
+![img.png](img.png)
 ![img_1.png](img_1.png)
